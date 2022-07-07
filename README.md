@@ -1,4 +1,4 @@
-### [Flutter x Magic Sliver Widget](#magic-sliver)
+### [Flutter x Magic Sliver Widgets](#magic-sliver)
 
 * [`Source code`](https://github.com/dubydu/fluttourII)
 
